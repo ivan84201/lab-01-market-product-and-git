@@ -24,3 +24,20 @@ Backend developers manage the server-side of web applications, focusing on build
 
 ## Common skills across roles
 Version control, SQL, basic design principles, testing, debugging, optimization
+
+
+### Role
+
+Backend developer
+
+### Skills i already have
+ - Introduction
+ - Java
+ - HTML
+
+
+### Skills I clearly lack
+ - CSS
+ - JavaScript
+ - Relational Databases
+ - Caching
